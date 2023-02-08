@@ -1,0 +1,327 @@
+
+/* Class = "UISegmentedControl"; 0re-Xp-qpg.segmentTitles[0] = "Men"; ObjectID = "0re-Xp-qpg"; */
+"0re-Xp-qpg.segmentTitles[0]" = "Men";
+
+/* Class = "UISegmentedControl"; 0re-Xp-qpg.segmentTitles[1] = "Women"; ObjectID = "0re-Xp-qpg"; */
+"0re-Xp-qpg.segmentTitles[1]" = "Women";
+
+/* Class = "UISegmentedControl"; 0re-Xp-qpg.segmentTitles[2] = "Both"; ObjectID = "0re-Xp-qpg"; */
+"0re-Xp-qpg.segmentTitles[2]" = "Both";
+
+/* Class = "UILabel"; text = "Preferences"; ObjectID = "176-ro-jUk"; */
+"176-ro-jUk.text" = "Preferences";
+
+/* Class = "UILabel"; text = "Between"; ObjectID = "1X5-nN-jgY"; */
+"1X5-nN-jgY.text" = "Between";
+
+/* Class = "UILabel"; text = "Nicklas - 22"; ObjectID = "1ax-HB-Bgl"; */
+"1ax-HB-Bgl.text" = "Nicklas - 22";
+
+/* Class = "UILabel"; text = "Attending"; ObjectID = "2pv-gY-xm0"; */
+"2pv-gY-xm0.text" = "Attending";
+
+/* Class = "UILabel"; text = "and be seen by"; ObjectID = "3RE-0C-HKh"; */
+"3RE-0C-HKh.text" = "and be seen by";
+
+/* Class = "UILabel"; text = "8:00-22:00"; ObjectID = "41s-WJ-Omx"; */
+"41s-WJ-Omx.text" = "8:00-22:00";
+
+/* Class = "UILabel"; text = "Attend"; ObjectID = "4Bp-yp-bdf"; */
+"4Bp-yp-bdf.text" = "Attend";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "4Hr-gz-ZXE"; */
+"4Hr-gz-ZXE.text" = "Notification";
+
+/* Class = "UILabel"; text = "something something something something something something something something something something something something something something something something something something something something something something something something "; ObjectID = "563-Wu-fru"; */
+"563-Wu-fru.text" = "something something something something something something something something something something something something something something something something something something something something something something something something ";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "5Jj-xd-a6C"; */
+"5Jj-xd-a6C.text" = "Help";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "5me-ku-cx8"; */
+"5me-ku-cx8.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Signe - 28"; ObjectID = "6gF-jR-907"; */
+"6gF-jR-907.text" = "Signe - 28";
+
+/* Class = "UILabel"; text = "You and person just liked each other"; ObjectID = "6ot-TW-U3P"; */
+"6ot-TW-U3P.text" = "You and person just liked each other";
+
+/* Class = "UILabel"; text = "Dentist - Kobenhavns tandlaeger"; ObjectID = "7BS-gG-4Ms"; */
+"7BS-gG-4Ms.text" = "Dentist - Kobenhavns tandlaeger";
+
+/* Class = "UILabel"; text = "   Suggested Events"; ObjectID = "Avv-Hw-NDD"; */
+"Avv-Hw-NDD.text" = "   Suggested Events";
+
+/* Class = "UILabel"; text = "Privacy"; ObjectID = "B4W-oN-Cbx"; */
+"B4W-oN-Cbx.text" = "Privacy";
+
+/* Class = "UILabel"; text = "100km"; ObjectID = "BlY-Dv-rmC"; */
+"BlY-Dv-rmC.text" = "100km";
+
+/* Class = "UILabel"; text = "Nicklas - 22"; ObjectID = "Bog-e3-elG"; */
+"Bog-e3-elG.text" = "Nicklas - 22";
+
+/* Class = "UILabel"; text = "Looking for Krowners"; ObjectID = "Boi-Lf-T3n"; */
+"Boi-Lf-T3n.text" = "Looking for Krowners";
+
+/* Class = "UILabel"; text = "Start time"; ObjectID = "C7A-hA-ILz"; */
+"C7A-hA-ILz.text" = "Start time";
+
+/* Class = "UILabel"; text = "something something something something something something something something something something something something something something something something something something something something something something "; ObjectID = "DVm-zN-uJH"; */
+"DVm-zN-uJH.text" = "something something something something something something something something something something something something something something something something something something something something something something ";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "DtV-3o-GuC"; */
+"DtV-3o-GuC.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Nicklas"; ObjectID = "EhI-Ke-VcS"; */
+"EhI-Ke-VcS.text" = "Nicklas";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "F1f-Ln-4hK"; */
+"F1f-Ln-4hK.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "Common Friends"; ObjectID = "Fq7-vz-58e"; */
+"Fq7-vz-58e.text" = "Common Friends";
+
+/* Class = "UILabel"; text = "Attending The Great Gatsby Party + 3"; ObjectID = "Hvj-aN-2PU"; */
+"Hvj-aN-2PU.text" = "Attending The Great Gatsby Party + 3";
+
+/* Class = "UILabel"; text = " "; ObjectID = "IoH-p7-iMr"; */
+"IoH-p7-iMr.text" = " ";
+
+/* Class = "UIButton"; normalTitle = "Use Video"; ObjectID = "Iva-bY-tv8"; */
+"Iva-bY-tv8.normalTitle" = "Use Video";
+
+/* Class = "UILabel"; text = "Attending \"The Great Gatsby Party\""; ObjectID = "JFl-M5-6Ng"; */
+"JFl-M5-6Ng.text" = "Attending \"The Great Gatsby Party\"";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JPo-Lu-DiA"; */
+"JPo-Lu-DiA.text" = "Label";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "Lml-uU-Iob"; */
+"Lml-uU-Iob.text" = "Status";
+
+/* Class = "UILabel"; text = "Messages"; ObjectID = "Lqp-Pl-cFv"; */
+"Lqp-Pl-cFv.text" = "Messages";
+
+/* Class = "UILabel"; text = "Attending"; ObjectID = "M5r-my-cXC"; */
+"M5r-my-cXC.text" = "Attending";
+
+/* Class = "UILabel"; text = "Nicklas - 22"; ObjectID = "MPQ-bI-ntb"; */
+"MPQ-bI-ntb.text" = "Nicklas - 22";
+
+/* Class = "UILabel"; text = "Attending \"The Great Gatsby Party\""; ObjectID = "NNh-Da-DQO"; */
+"NNh-Da-DQO.text" = "Attending \"The Great Gatsby Party\"";
+
+/* Class = "UILabel"; text = "In the radius of"; ObjectID = "O5O-Ul-1CK"; */
+"O5O-Ul-1CK.text" = "In the radius of";
+
+/* Class = "UILabel"; text = "Start time"; ObjectID = "OG4-Ym-aGd"; */
+"OG4-Ym-aGd.text" = "Start time";
+
+/* Class = "UILabel"; text = "Terms of Service"; ObjectID = "OjH-YT-h12"; */
+"OjH-YT-h12.text" = "Terms of Service";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "OpA-Km-BNh"; */
+"OpA-Km-BNh.text" = "Status";
+
+/* Class = "UILabel"; text = "Interests"; ObjectID = "Q9N-yD-EQ9"; */
+"Q9N-yD-EQ9.text" = "Interests";
+
+/* Class = "UILabel"; text = "18"; ObjectID = "RLU-a4-Xyc"; */
+"RLU-a4-Xyc.text" = "18";
+
+/* Class = "UILabel"; text = "I am looking for"; ObjectID = "RPc-TZ-Iff"; */
+"RPc-TZ-Iff.text" = "I am looking for";
+
+/* Class = "UILabel"; text = "Datamatiker - Københavns Erhvervsakademi"; ObjectID = "SS9-Tw-sAa"; */
+"SS9-Tw-sAa.text" = "Datamatiker - Københavns Erhvervsakademi";
+
+/* Class = "UILabel"; text = "Signe"; ObjectID = "U3L-oA-5zr"; */
+"U3L-oA-5zr.text" = "Signe";
+
+/* Class = "UILabel"; text = "Feedback"; ObjectID = "UQg-Hp-Fg0"; */
+"UQg-Hp-Fg0.text" = "Feedback";
+
+/* Class = "UILabel"; text = "1531"; ObjectID = "UfH-ca-S0u"; */
+"UfH-ca-S0u.text" = "1531";
+
+/* Class = "UILabel"; text = "80 points"; ObjectID = "UuU-Sv-WQj"; */
+"UuU-Sv-WQj.text" = "80 points";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VDz-EN-RbH"; */
+"VDz-EN-RbH.text" = "Label";
+
+/* Class = "UILabel"; text = "99"; ObjectID = "VQU-6m-JIK"; */
+"VQU-6m-JIK.text" = "99";
+
+/* Class = "UILabel"; text = "   "; ObjectID = "VVE-Vg-jsU"; */
+"VVE-Vg-jsU.text" = "   ";
+
+/* Class = "UILabel"; text = "In the age"; ObjectID = "Vey-Lg-Nb2"; */
+"Vey-Lg-Nb2.text" = "In the age";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "W7x-3V-JJM"; */
+"W7x-3V-JJM.text" = "4";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "XOl-Xc-4WS"; */
+"XOl-Xc-4WS.normalTitle" = "Edit";
+
+/* Class = "UILabel"; text = "Scope"; ObjectID = "XvA-Nq-iDI"; */
+"XvA-Nq-iDI.text" = "Scope";
+
+/* Class = "UIButton"; normalTitle = "Change Status"; ObjectID = "YhT-mN-Xhk"; */
+"YhT-mN-Xhk.normalTitle" = "Change Status";
+
+/* Class = "UIButton"; selectedTitle = "Flamer"; ObjectID = "Z6y-42-cFs"; */
+"Z6y-42-cFs.selectedTitle" = "Flamer";
+
+/* Class = "UITextView"; text = "Status"; ObjectID = "ZT6-YP-8f1"; */
+"ZT6-YP-8f1.text" = "Status";
+
+/* Class = "UILabel"; text = "Nicklas"; ObjectID = "aCA-N1-Fsj"; */
+"aCA-N1-Fsj.text" = "Nicklas";
+
+/* Class = "UILabel"; text = "Matches"; ObjectID = "amH-rY-faj"; */
+"amH-rY-faj.text" = "Matches";
+
+/* Class = "UILabel"; text = "The Great Gatsby Party"; ObjectID = "at1-Gn-vuf"; */
+"at1-Gn-vuf.text" = "The Great Gatsby Party";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bNK-jJ-9NQ"; */
+"bNK-jJ-9NQ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "cGe-Mf-ymz"; */
+"cGe-Mf-ymz.text" = "0";
+
+/* Class = "UILabel"; text = "to"; ObjectID = "cLj-eX-668"; */
+"cLj-eX-668.text" = "to";
+
+/* Class = "UILabel"; text = "Attending"; ObjectID = "d9L-tz-NlU"; */
+"d9L-tz-NlU.text" = "Attending";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "dWU-KF-4YC"; */
+"dWU-KF-4YC.text" = "0";
+
+/* Class = "UILabel"; text = "Education"; ObjectID = "eDe-bE-UtR"; */
+"eDe-bE-UtR.text" = "Education";
+
+/* Class = "UILabel"; text = "Discover"; ObjectID = "efx-8d-BoA"; */
+"efx-8d-BoA.text" = "Discover";
+
+/* Class = "UILabel"; text = "153100"; ObjectID = "fYt-wJ-Dv8"; */
+"fYt-wJ-Dv8.text" = "153100";
+
+/* Class = "UILabel"; text = "61 -Matches"; ObjectID = "fd4-w1-T1j"; */
+"fd4-w1-T1j.text" = "61 -Matches";
+
+/* Class = "UILabel"; text = "Occupation"; ObjectID = "g9A-zR-xJ5"; */
+"g9A-zR-xJ5.text" = "Occupation";
+
+/* Class = "UILabel"; text = "I want to receive"; ObjectID = "gCY-DU-xzi"; */
+"gCY-DU-xzi.text" = "I want to receive";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "ga5-lk-fdq"; */
+"ga5-lk-fdq.text" = "Help";
+
+/* Class = "UILabel"; text = "Congratulations"; ObjectID = "geD-eW-Mvf"; */
+"geD-eW-Mvf.text" = "Congratulations";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "gn3-lL-lBv"; */
+"gn3-lL-lBv.text" = "0";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "hH2-2G-CGi"; */
+"hH2-2G-CGi.text" = "Logout";
+
+/* Class = "UILabel"; text = "Dataamatiker - København Erhvervsakademi"; ObjectID = "hik-r0-KfC"; */
+"hik-r0-KfC.text" = "Dataamatiker - København Erhvervsakademi";
+
+/* Class = "UILabel"; text = "Hello this is crazy please tell me this is true"; ObjectID = "hyo-6O-aP4"; */
+"hyo-6O-aP4.text" = "Hello this is crazy please tell me this is true";
+
+/* Class = "UILabel"; text = "Datamatiker - Københavns Erhvervsakademi"; ObjectID = "iem-tg-9dv"; */
+"iem-tg-9dv.text" = "Datamatiker - Københavns Erhvervsakademi";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "jEU-zf-e2n"; */
+"jEU-zf-e2n.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "15:30 20/12"; ObjectID = "lXz-T8-DRw"; */
+"lXz-T8-DRw.text" = "15:30 20/12";
+
+/* Class = "UILabel"; text = "Common Friends"; ObjectID = "lbm-bz-8Ke"; */
+"lbm-bz-8Ke.text" = "Common Friends";
+
+/* Class = "UISearchBar"; placeholder = "Search"; ObjectID = "lhh-hU-3Yq"; */
+"lhh-hU-3Yq.placeholder" = "Search";
+
+/* Class = "UILabel"; text = "Edit Info"; ObjectID = "lvq-5d-nPn"; */
+"lvq-5d-nPn.text" = "Edit Info";
+
+/* Class = "UINavigationItem"; title = "Krown"; ObjectID = "n2T-TA-Qr6"; */
+"n2T-TA-Qr6.title" = "Krown";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "n2s-NG-jjc"; */
+"n2s-NG-jjc.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "nDl-JY-OMU"; */
+"nDl-JY-OMU.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "ohg-Bk-SoO"; */
+"ohg-Bk-SoO.text" = "0";
+
+/* Class = "UILabel"; text = "153100"; ObjectID = "pg0-jB-xLM"; */
+"pg0-jB-xLM.text" = "153100";
+
+/* Class = "UISegmentedControl"; pjh-aj-hN9.segmentTitles[0] = "Monday"; ObjectID = "pjh-aj-hN9"; */
+"pjh-aj-hN9.segmentTitles[0]" = "Monday";
+
+/* Class = "UISegmentedControl"; pjh-aj-hN9.segmentTitles[1] = "Tuesday"; ObjectID = "pjh-aj-hN9"; */
+"pjh-aj-hN9.segmentTitles[1]" = "Tuesday";
+
+/* Class = "UISegmentedControl"; pjh-aj-hN9.segmentTitles[2] = "Wensday"; ObjectID = "pjh-aj-hN9"; */
+"pjh-aj-hN9.segmentTitles[2]" = "Wensday";
+
+/* Class = "UISegmentedControl"; pjh-aj-hN9.segmentTitles[3] = "Thuesday"; ObjectID = "pjh-aj-hN9"; */
+"pjh-aj-hN9.segmentTitles[3]" = "Thuesday";
+
+/* Class = "UISegmentedControl"; pjh-aj-hN9.segmentTitles[4] = "Friday"; ObjectID = "pjh-aj-hN9"; */
+"pjh-aj-hN9.segmentTitles[4]" = "Friday";
+
+/* Class = "UISegmentedControl"; pjh-aj-hN9.segmentTitles[5] = "Saturday"; ObjectID = "pjh-aj-hN9"; */
+"pjh-aj-hN9.segmentTitles[5]" = "Saturday";
+
+/* Class = "UISegmentedControl"; pjh-aj-hN9.segmentTitles[6] = "Sunday"; ObjectID = "pjh-aj-hN9"; */
+"pjh-aj-hN9.segmentTitles[6]" = "Sunday";
+
+/* Class = "UILabel"; text = "   "; ObjectID = "qCG-tJ-zgM"; */
+"qCG-tJ-zgM.text" = "   ";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "rhA-SK-n7j"; */
+"rhA-SK-n7j.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Education"; ObjectID = "stn-qU-LMg"; */
+"stn-qU-LMg.text" = "Education";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sw6-2p-vr4"; */
+"sw6-2p-vr4.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = " "; ObjectID = "tCV-G6-QcE"; */
+"tCV-G6-QcE.text" = " ";
+
+/* Class = "UIButton"; normalTitle = "Capture"; ObjectID = "tYz-Zs-8Ck"; */
+"tYz-Zs-8Ck.normalTitle" = "Capture";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "uwb-EP-IYA"; */
+"uwb-EP-IYA.text" = "0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vrV-I5-8xl"; */
+"vrV-I5-8xl.text" = "Label";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "yhL-hI-Ik3"; */
+"yhL-hI-Ik3.text" = "0";
+
+/* Class = "UILabel"; text = "Occupation"; ObjectID = "zGT-6m-G9W"; */
+"zGT-6m-G9W.text" = "Occupation";
+
+/* Class = "UILabel"; text = "Copenhagen Business Scool - IMM"; ObjectID = "zrH-O9-EDv"; */
+"zrH-O9-EDv.text" = "Copenhagen Business Scool - IMM";

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="CustomOverlayView" customModule="Krown" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eKe-Gq-oUo">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="DL9-FV-Dol">
+                            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                            <color key="backgroundColor" name="LightPurpal"/>
+                        </imageView>
+                        <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleAspectFit" insetsLayoutMarginsFromSafeArea="NO" image="HandWaving" translatesAutoresizingMaskIntoConstraints="NO" id="ehM-SA-Wft">
+                            <rect key="frame" x="100" y="246" width="175" height="175"/>
+                            <constraints>
+                                <constraint firstAttribute="width" secondItem="ehM-SA-Wft" secondAttribute="height" multiplier="1:1" id="a7r-bT-Obf"/>
+                            </constraints>
+                        </imageView>
+                    </subviews>
+                    <constraints>
+                        <constraint firstItem="ehM-SA-Wft" firstAttribute="leading" secondItem="eKe-Gq-oUo" secondAttribute="leading" constant="100" id="6Qo-nt-LXm"/>
+                        <constraint firstItem="ehM-SA-Wft" firstAttribute="centerX" secondItem="eKe-Gq-oUo" secondAttribute="centerX" id="EUK-e0-pHx"/>
+                        <constraint firstItem="DL9-FV-Dol" firstAttribute="leading" secondItem="eKe-Gq-oUo" secondAttribute="leading" id="KHZ-Zw-HHM"/>
+                        <constraint firstAttribute="bottom" secondItem="DL9-FV-Dol" secondAttribute="bottom" id="PCz-5i-Gpf"/>
+                        <constraint firstItem="DL9-FV-Dol" firstAttribute="top" secondItem="eKe-Gq-oUo" secondAttribute="top" id="jUm-15-aEc"/>
+                        <constraint firstAttribute="trailing" secondItem="DL9-FV-Dol" secondAttribute="trailing" id="lrh-gE-Gcm"/>
+                        <constraint firstItem="ehM-SA-Wft" firstAttribute="centerY" secondItem="eKe-Gq-oUo" secondAttribute="centerY" id="mxa-xS-3TG"/>
+                        <constraint firstAttribute="trailing" secondItem="ehM-SA-Wft" secondAttribute="trailing" constant="100" id="wAh-hv-SOu"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="eKe-Gq-oUo" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="2Ev-EJ-I6a"/>
+                <constraint firstItem="eKe-Gq-oUo" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="E58-KG-hR5"/>
+                <constraint firstAttribute="trailing" secondItem="eKe-Gq-oUo" secondAttribute="trailing" id="Lib-sX-liK"/>
+                <constraint firstAttribute="bottom" secondItem="eKe-Gq-oUo" secondAttribute="bottom" id="s2R-eo-Nc0"/>
+            </constraints>
+            <connections>
+                <outlet property="acceptGreen" destination="ehM-SA-Wft" id="6Mj-6h-ebS"/>
+                <outlet property="overlayImageView" destination="DL9-FV-Dol" id="hua-LW-Mv2"/>
+            </connections>
+            <point key="canvasLocation" x="123.5" y="86.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="HandWaving" width="214" height="226"/>
+        <namedColor name="LightPurpal">
+            <color red="0.81960784313725488" green="0.7686274509803922" blue="0.9137254901960784" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

@@ -1,0 +1,69 @@
+# This file contains the fastlane.tools configuration
+# You can find the documentation at https://docs.fastlane.tools
+#
+# For a list of all available actions, check out
+#
+#     https://docs.fastlane.tools/actions
+#
+# For a list of all available plugins, check out
+#
+#     https://docs.fastlane.tools/plugins/available-plugins
+#
+
+# Uncomment the line if you want fastlane to automatically update itself
+update_fastlane
+
+default_platform(:ios)
+
+platform :ios do
+  desc "Push a new beta build to TestFlight"
+  lane :beta do
+    build_app(export_xcargs: "-allowProvisioningUpdates")
+    increment_build_number({build_number: latest_testflight_build_number + 1})
+    build_app(workspace: "Krown.xcworkspace", scheme: "Krown", include_bitcode: true)
+	upload_to_testflight(
+	  beta_app_review_info: {
+	    contact_email: "teglgaard@gmail.com",
+	    contact_first_name: "Anders",
+	    contact_last_name: "Teglgaard",
+	    contact_phone: "004542524202",
+	    demo_account_required: true,
+	    demo_account_name: "pjpwrqy_warmanson_1455881914@tfbnw.net",
+	    demo_account_password: "Monkeyisland123",
+	    notes: "",
+	  },
+	  localized_app_info: {
+	    "default": {
+	      feedback_email: "info@krownapp.com",
+	      marketing_url: "http://krownapp.com",
+	      privacy_policy_url: "http://www.krownapp.com/privacy/",
+	      description: "1. Set GPS location to custom location: Lat: 55,67747 , Long: 30,573274
+2. Open the Krown app
+3. Important: use the test user we have provided to be able to see the different things we provide with a pre-set proximity distance setting. 
+4. Login with 'Facebook'
+5. When logged in, look at the first card that you see on the screen loaded up - this should be another test user called Toby Kuphal. Click on the name to see  more information about the user. From here you you can flag objectional material from a user directly. 
+6. When you go to the chat menu on the right side and enter one of your matches there. Then you will see a flag in the right corner. From this you will be able to again report the user but also unmatch and block the user.
+7. In this view you can click the name of the match that you have. If you have clicked Me, Anders, then inside the chat you can click my name in the top and see the profile card where you can see we have a matching event in the top of the card. This event is also pulled from facebook.",
+	    }
+	  },
+	  localized_build_info: {
+	    "default": {
+	      whats_new: "Shake to send feedback - general test of issues. Please report every bug you find
+	      Changes made to the Scope where a bug happened not showing the social circle buttons.
+	      In scope the sliders now also work properly.
+	      Last fix was to return to last screen after logging out. This would create a fatal crash.",
+	    }
+	  }
+	)
+  end
+  lane :meta do
+  deliver(
+    submit_for_review: false,
+    automatic_release: false,
+    force: true, # Skip HTMl report verification
+    skip_metadata: false,
+    skip_screenshots: false,
+    skip_binary_upload: true
+  )
+end
+end

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "95C5E8B82F3CAEE90D983D36FDE950EC7ED982CC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9120F9C519551ED3CFCF7ED7B288236D29E27D05" : 0,
+    "95C5E8B82F3CAEE90D983D36FDE950EC7ED982CC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E77F70BB-6226-4068-826B-445F7E98B2E1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9120F9C519551ED3CFCF7ED7B288236D29E27D05" : "krown-ios\/",
+    "95C5E8B82F3CAEE90D983D36FDE950EC7ED982CC" : "Krownapp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Krownapp_Dev",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Krownapp_Dev\/Krownapp_Dev.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/teglgaard\/krown-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9120F9C519551ED3CFCF7ED7B288236D29E27D05"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/teglgaard\/krown-swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "95C5E8B82F3CAEE90D983D36FDE950EC7ED982CC"
+    }
+  ]
+}

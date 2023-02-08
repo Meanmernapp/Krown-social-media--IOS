@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="PageControllCollCell" customModule="Krown" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="40" height="40"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="40" height="40"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="I8J-YM-IY9">
+                        <rect key="frame" x="0.0" y="0.0" width="40" height="40"/>
+                        <color key="backgroundColor" red="0.76862745099999996" green="0.76862745099999996" blue="0.76862745099999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </view>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="knR-b5-x7E" customClass="CircularProgressView" customModule="Krown" customModuleProvider="target">
+                        <rect key="frame" x="0.0" y="0.0" width="40" height="40"/>
+                        <color key="backgroundColor" red="0.76862745098039209" green="0.76862745098039209" blue="0.76862745098039209" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="progress">
+                                <real key="value" value="0.0"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="progressTintColor">
+                                <color key="value" name="royalPurple"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="trackTintColor">
+                                <color key="value" red="0.76862745099999996" green="0.76862745099999996" blue="0.76862745099999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="boolean" keyPath="roundedProgressLineCap" value="NO"/>
+                            <userDefinedRuntimeAttribute type="number" keyPath="trackLineWidth">
+                                <real key="value" value="5"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="knR-b5-x7E" secondAttribute="bottom" id="1bV-Xp-oMk"/>
+                <constraint firstAttribute="trailing" secondItem="knR-b5-x7E" secondAttribute="trailing" id="Bh7-uc-BdP"/>
+                <constraint firstItem="knR-b5-x7E" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="FqG-m9-OZz"/>
+                <constraint firstItem="I8J-YM-IY9" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="Gwe-1W-lTk"/>
+                <constraint firstItem="knR-b5-x7E" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="bQK-bL-Nm0"/>
+                <constraint firstAttribute="trailing" secondItem="I8J-YM-IY9" secondAttribute="trailing" id="eT0-QN-Y7g"/>
+                <constraint firstItem="I8J-YM-IY9" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="nKf-bp-fiC"/>
+                <constraint firstAttribute="bottom" secondItem="I8J-YM-IY9" secondAttribute="bottom" id="uUB-zI-Dtf"/>
+            </constraints>
+            <size key="customSize" width="136" height="167"/>
+            <connections>
+                <outlet property="pageView" destination="knR-b5-x7E" id="3th-Rj-I9C"/>
+                <outlet property="v1" destination="I8J-YM-IY9" id="RPK-dY-cCT"/>
+            </connections>
+            <point key="canvasLocation" x="194.20289855072465" y="137.61160714285714"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <namedColor name="royalPurple">
+            <color red="0.38039215686274508" green="0.0" blue="0.92941176470588238" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

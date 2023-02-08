@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Krown</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIconName</key>
+	<string>Krown</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb563776470440254</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>krownapp</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>Bundle Id</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.krownunity.krown</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>FacebookAdvertiserIDCollectionEnabled</key>
+	<true/>
+	<key>FacebookAppID</key>
+	<string>563776470440254</string>
+	<key>FacebookAutoLogAppEventsEnabled</key>
+	<false/>
+	<key>FacebookClientToken</key>
+	<string>797b4a9de3d7c3457020dc00dc06822a</string>
+	<key>FacebookDisplayName</key>
+	<string>KrownApp</string>
+	<key>FirebaseScreenReportingEnabled</key>
+	<false/>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>fbapi</string>
+		<string>fbapi20130214</string>
+		<string>fbapi20130410</string>
+		<string>fbapi20130702</string>
+		<string>fbapi20131010</string>
+		<string>fbapi20131219</string>
+		<string>fbapi20140410</string>
+		<string>fbapi20140116</string>
+		<string>fbapi20150313</string>
+		<string>fbapi20150629</string>
+		<string>fbapi20160328</string>
+		<string>fbauth</string>
+		<string>fbauth2</string>
+		<string>fb-messenger-api20140430</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>We need access to the camera to let you take pictures and record video. E.g. customize your profile or send picture messages.</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright© KrownUnity All rights reserved</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>App explanation for always: “For letting others swipe you in a relevant location in addition to events.  Krown (i) collects your location when you move significantly. (ii) collects information when you are sending location messages.  (iii) when you are attending events to make it more likely to swipe others who are currently attending”
+
+            If you only allow acces to your location while you are using the app, some features may not work while this app is in the background.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>App explanation for always: “For letting others swipe you in a relevant location in addition to events.  Krown (i) collects your location when you move significantly. (ii) collects information when you are sending location messages.  (iii) when you are attending events to make it more likely to swipe others who are currently attending”
+
+            If you only allow acces to your location while you are using the app, some features may not work while this app is in the background.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Krown needs access to your location in order to find potential matches.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>We need access to the photo library to let you upload photos and videos. E.g. customize your profile or send picture messages.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>We need access to the photo library to let you upload photos and videos. E.g. customize your profile or send picture messages.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Avenir.ttc</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>location</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>branch_key</key>
+	<dict>
+		<key>live</key>
+		<string>key_live_oaj2i2lrrqQXpA9vr2y3JgjiDEcKXnop</string>
+	</dict>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Please accept tracking since it allows us to ease your login.
+It enables functionality for events and updating your information automatically.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Please allow microphone usage so you can record sound in your videos</string>
+	<key>MGLMapboxAccessToken</key>
+	<string>pk.eyJ1IjoidGVnbGdhYXJkIiwiYSI6ImNsOG1yOTJlMjBtOWYzcHFjcnllMXcyYjkifQ.jMAfjF8FuGHnw1eYc0MxvQ</string>
+</dict>
+</plist>
